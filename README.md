@@ -11,28 +11,8 @@ porque Ctrl+C e Ctrl+V não deveria ser descrição de cargo.
 Faço de ponta a ponta: entendo o processo, escrevo, coloco em produção e acompanho.<br>
 No caminho criei o padrão de automação que o time segue hoje.
 
-Gosto de solução simples e que avisa quando quebra.<br>
-Robô que falha em silêncio é só mais um problema, agora automatizado.
-
-## O que eu faço
-
-**Automação e robôs (RPA)**<br>
-Sites e sistemas sem API: o robô entra, filtra, baixa, preenche e consolida.
-
-**Documentos em lote**<br>
-Contratos, notificações e relatórios gerados a partir de planilhas.
-
-**Integrações**<br>
-API REST, SFTP, meios de pagamento, banco a banco, importação por arquivo com nova tentativa.
-
-**Planilhas e dados**<br>
-Limpeza, conferência e relatórios automáticos.
-
-**IA aplicada**<br>
-Chatbots e fluxos no Dify e no n8n ligados a sistemas reais, com controle de acesso e de consumo.
-
-**Painéis internos em Python**<br>
-Telas web em Flet com login, permissões por grupo e registro de uso.
+Robôs para sites sem API, documentos em lote, integrações, painéis em Python e chatbots no Dify.<br>
+Se é repetitivo, dá para automatizar.
 
 ## Tecnologias
 
