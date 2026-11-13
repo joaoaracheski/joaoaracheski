@@ -69,21 +69,6 @@ Telas web em Flet com login, permissões por grupo e registro de uso.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-## Projetos
-
-Versões abertas, com dados fictícios, de soluções que já rodam em produção.
-
-**[gerador-documentos](https://github.com/joaoaracheski/gerador-documentos)**<br>
-Lê uma planilha e um modelo Word e gera um documento para cada linha,<br>
-com um relatório do que foi gerado e do que deu erro.
-
-**regua-cobranca** *(em construção)*<br>
-Envia lembretes de cobrança por e-mail e Telegram antes e depois do vencimento,<br>
-sem mandar o mesmo aviso duas vezes.
-
-**robo-portal** *(em construção)*<br>
-Um robô que acessa um site com login, baixa os relatórios e junta tudo numa planilha.
-
 ## Contato
 
 Quer conversar sobre um projeto? Me chama:
