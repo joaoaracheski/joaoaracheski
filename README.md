@@ -2,17 +2,14 @@
 
 # Oi, eu sou o João! :)
 
+Dev Python Pleno.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/joaoaracheski/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/joaoaracheski)
 
-Desenvolvedor Python. Automatizo o trabalho repetitivo que ninguém aguenta mais fazer,<br>
-porque Ctrl+C e Ctrl+V não deveria ser descrição de cargo.
+Automatizando o trabalho ~~de corno~~ repetitivo que ninguém aguenta mais fazer.<br>
 
-Faço de ponta a ponta: entendo o processo, escrevo, coloco em produção e acompanho.<br>
-No caminho criei o padrão de automação que o time segue hoje.
-
-Robôs para sites sem API, documentos em lote, integrações, painéis em Python e chatbots no Dify.<br>
-Se é repetitivo, dá para automatizar.
+Robôs para sites sem API, documentos em lote, integrações com CRMs e bancos, painéis em Python, chatbots.<br>
 
 ## Tecnologias
 
