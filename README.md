@@ -2,7 +2,8 @@
 
 # Oi, eu sou o João! :)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoaracheski-0A66C2?style=flat-square)](https://www.linkedin.com/in/joaoaracheski/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/joaoaracheski/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/joaoaracheski)
 
 Desenvolvedor Python. Automatizo o trabalho repetitivo que ninguém aguenta mais fazer,<br>
 porque Ctrl+C e Ctrl+V não deveria ser descrição de cargo.
@@ -68,12 +69,5 @@ Telas web em Flet com login, permissões por grupo e registro de uso.
 ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-24292F?style=flat-square&logo=opentelemetry&logoColor=F5A800)
-
-## Contato
-
-Quer conversar sobre um projeto? Me chama:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/joaoaracheski/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/joaoaracheski)
 
 </div>
