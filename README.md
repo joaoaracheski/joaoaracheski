@@ -71,9 +71,7 @@ Telas web em Flet com login, permissões por grupo e registro de uso.
 
 ## Projetos
 
-Meu trabalho do dia a dia é em sistemas internos de empresa, que não posso publicar.<br>
-Os projetos abaixo reproduzem, do zero e com dados fictícios, soluções que já implementei<br>
-e que estão funcionando em produção.
+Versões abertas, com dados fictícios, de soluções que já rodam em produção.
 
 **[gerador-documentos](https://github.com/joaoaracheski/gerador-documentos)**<br>
 Lê uma planilha e um modelo Word e gera um documento para cada linha,<br>
