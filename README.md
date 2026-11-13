@@ -71,20 +71,26 @@ Telas web em Flet com login, permissões por grupo e registro de uso.
 
 ## Projetos
 
-O que eu construí no trabalho fica lá. Aqui eu recrio as ideias do zero,<br>
-com dados fictícios, para mostrar como resolvo cada tipo de problema.
+Meu trabalho do dia a dia é em sistemas internos de empresa, que não posso publicar.<br>
+Os projetos abaixo reproduzem, do zero e com dados fictícios, soluções que já implementei<br>
+e que estão funcionando em produção.
 
 **[gerador-documentos](https://github.com/joaoaracheski/gerador-documentos)**<br>
-Planilha Excel + modelo Word: um documento por linha e um relatório do que deu certo e do que falhou.
+Lê uma planilha e um modelo Word e gera um documento para cada linha,<br>
+com um relatório do que foi gerado e do que deu erro.
 
 **regua-cobranca** *(em construção)*<br>
-Avisos de cobrança antes e depois do vencimento, por e-mail e Telegram, sem mandar em duplicidade.
+Envia lembretes de cobrança por e-mail e Telegram antes e depois do vencimento,<br>
+sem mandar o mesmo aviso duas vezes.
 
 **robo-portal** *(em construção)*<br>
-Robô que entra num portal, baixa os relatórios e junta tudo numa planilha.
+Um robô que acessa um site com login, baixa os relatórios e junta tudo numa planilha.
 
----
+## Contato
 
-Quer conversar sobre um projeto? Me chama no [LinkedIn](https://www.linkedin.com/in/joaoaracheski/).
+Quer conversar sobre um projeto? Me chama:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/joaoaracheski/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaoaracheski)
 
 </div>
