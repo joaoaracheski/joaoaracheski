@@ -7,7 +7,7 @@ Dev Python Pleno.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/joaoaracheski/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/joaoaracheski)
 
-Automatizando o trabalho d̶e̶ ̶c̶o̶r̶n̶o̶ repetitivo que ninguém aguenta mais fazer.<br>
+Automatizando o trabalho de ~~corno~~ repetitivo que ninguém aguenta mais fazer.<br>
 
 Robôs para sites sem API, documentos em lote, integrações com CRMs e bancos, painéis em Python, chatbots.<br>
 
