@@ -28,6 +28,7 @@ Robôs para sites sem API, documentos em lote, integrações com CRMs e bancos, 
 ![OpenAI](https://img.shields.io/badge/OpenAI-24292F?style=flat-square)
 ![Telegram](https://img.shields.io/badge/Telegram-24292F?style=flat-square&logo=telegram&logoColor=26A5E4)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-24292F?style=flat-square&logo=whatsapp&logoColor=25D366)
+![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032)
 
