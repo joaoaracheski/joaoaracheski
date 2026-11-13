@@ -1,17 +1,17 @@
 <div align="center">
 
-# Oi, eu sou o João
+# Oi, eu sou o João! :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaoaracheski-0A66C2?style=flat-square)](https://www.linkedin.com/in/joaoaracheski/)
 
-Desenvolvedor Python. Transformo trabalho repetitivo em coisa que roda sozinha.
+Desenvolvedor Python. Automatizo o trabalho repetitivo que ninguém aguenta mais fazer,<br>
+porque Ctrl+C e Ctrl+V não deveria ser descrição de cargo.
 
-Faço de ponta a ponta: entendo o processo com quem sofre com ele, escrevo a automação,<br>
-coloco em produção e acompanho. No caminho criei o padrão que o time segue hoje,<br>
-do modelo de projeto ao deploy automático pelo Git.
+Faço de ponta a ponta: entendo o processo, escrevo, coloco em produção e acompanho.<br>
+No caminho criei o padrão de automação que o time segue hoje.
 
-Gosto de soluções simples, que outra pessoa consiga manter depois de mim,<br>
-e de pensar na operação desde o começo, para nada falhar em silêncio.
+Gosto de solução simples e que avisa quando quebra.<br>
+Robô que falha em silêncio é só mais um problema, agora automatizado.
 
 ## O que eu faço
 
