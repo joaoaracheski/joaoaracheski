@@ -21,6 +21,7 @@ Robôs para sites sem API, documentos em lote, integrações com CRMs e bancos, 
 ![Selenium](https://img.shields.io/badge/Selenium-24292F?style=flat-square&logo=selenium&logoColor=43B02A)
 ![pandas](https://img.shields.io/badge/pandas-24292F?style=flat-square&logo=pandas&logoColor=E70488)
 ![SQL Server](badges/sql-server.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-24292F?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-24292F?style=flat-square&logo=mongodb&logoColor=47A248)
 ![n8n](https://img.shields.io/badge/n8n-24292F?style=flat-square&logo=n8n&logoColor=EA4B71)
