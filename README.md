@@ -32,4 +32,8 @@ Automatizando o trabalho ~~de corno~~ repetitivo que ninguém aguenta mais fazer
 ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032)
 
+<br>
+
+![Visitas](https://komarev.com/ghpvc/?username=joaoaracheski&style=flat-square&color=24292F&label=visitas)
+
 </div>
