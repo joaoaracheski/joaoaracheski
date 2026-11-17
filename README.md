@@ -9,7 +9,6 @@ Dev Python Pleno.
 
 Automatizando o trabalho ~~de corno~~ repetitivo que ninguém aguenta mais fazer.<br>
 
-Robôs para sites sem API, documentos em lote, integrações com CRMs e bancos, painéis em Python, chatbots.<br>
 
 ## Tecnologias
 
