@@ -7,7 +7,7 @@ Dev Python Pleno.
 [![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/joaoaracheski/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/joaoaracheski)
 
-Automatizando o trabalho ~~de corno~~ repetitivo que ninguém aguenta mais fazer.<br>
+Automatizando o trabalho repetitivo que ninguém aguenta mais fazer.<br>
 
 
 ## Tecnologias
