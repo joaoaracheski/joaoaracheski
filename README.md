@@ -31,7 +31,7 @@ Contribuições no [Flet](https://github.com/flet-dev/flet), framework para faze
 
 ✅ [#7084](https://github.com/flet-dev/flet/pull/7084) · `@control` e `@value` aceitando `dataclasses.field` na checagem de tipos<br>
 ✅ [#7087](https://github.com/flet-dev/flet/pull/7087) · overload do `@control` que o mypy lia como `type[Never]`<br>
-🔄 [#7086](https://github.com/flet-dev/flet/pull/7086) · listas e dicionários observáveis avisando a tela no `+=` e `|=` (em revisão)
+✅ [#7086](https://github.com/flet-dev/flet/pull/7086) · listas e dicionários observáveis avisando a tela no `+=` e `|=`
 
 <br>
 
