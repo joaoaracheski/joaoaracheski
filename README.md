@@ -32,6 +32,14 @@ Automatizando o trabalho ~~de corno~~ repetitivo que ninguém aguenta mais fazer
 ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=F05032)
 
+## Open source
+
+Contribuições no [Flet](https://github.com/flet-dev/flet), framework para fazer apps web, desktop e mobile só com Python:
+
+✅ [#7084](https://github.com/flet-dev/flet/pull/7084) · `@control` e `@value` aceitando `dataclasses.field` na checagem de tipos<br>
+✅ [#7087](https://github.com/flet-dev/flet/pull/7087) · overload do `@control` que o mypy lia como `type[Never]`<br>
+🔄 [#7086](https://github.com/flet-dev/flet/pull/7086) · listas e dicionários observáveis avisando a tela no `+=` e `|=` (em revisão)
+
 <br>
 
 ![Visitas](https://komarev.com/ghpvc/?username=joaoaracheski&style=flat-square&color=24292F&label=visitas)
